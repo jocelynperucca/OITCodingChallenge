@@ -1,5 +1,6 @@
 
-
+#Jocelyn Perucca's Coding Challenge
+#Time spent: 2 hours
 
 
 #roman_num: Roman numeral string
